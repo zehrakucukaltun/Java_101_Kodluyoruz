@@ -1,3 +1,5 @@
+//To calculate VAT amount
+
 import java.util.Scanner;
 
 public class CalculateVat {
