@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class MeanOfNumbers {
+public class EvenNum {
 
-//program to find even numbers up to the entered number..
+//program to find even numbers up to the entered number with while loop..
     public static void main(String[] args) { 
         Scanner input =new Scanner(System.in);
         System.out.println("Sayıyı giriniz:");
