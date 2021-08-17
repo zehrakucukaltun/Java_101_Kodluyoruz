@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class MeanOfNumbers {
+
+//program to find even numbers up to the entered number..
+    public static void main(String[] args) { 
+        Scanner input =new Scanner(System.in);
+        System.out.println("Sayıyı giriniz:");
+        int a = input.nextInt();
+        int i=0;
+        while (i<=a){
+            if (i%2 ==0){
+                System.out.println("i:" +i);
+            }
+            i++;
+        }
+
+    }
+}
